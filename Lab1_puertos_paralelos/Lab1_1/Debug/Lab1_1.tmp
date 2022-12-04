@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\Microchip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\Debug\Lab1_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1_1.map</FILE>
+  <FILE>Lab1_1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>53</LINE></Inicio>
+  <Int_Externa0><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>147</LINE></Int_Externa0>
+  <Int_Externa1><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>190</LINE></Int_Externa1>
+  <InterrupcionT1><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>122</LINE></InterrupcionT1>
+  <TABLE1><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>40</LINE></TABLE1>
+  <TABLE2><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>42</LINE></TABLE2>
+  <TABLE3><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>44</LINE></TABLE3>
+  <TABLE4><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>46</LINE></TABLE4>
+  <BUCLE><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>115</LINE></BUCLE>
+  <Repetir><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>139</LINE></Repetir>
+  <FinRep><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>134</LINE></FinRep>
+  <SENO><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>151</LINE></SENO>
+  <CUADRADA><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>158</LINE></CUADRADA>
+  <F_SALIR><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>182</LINE></F_SALIR>
+  <TRIANGULO><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>165</LINE></TRIANGULO>
+  <SIERRA><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>172</LINE></SIERRA>
+  <F_OTROS><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>179</LINE></F_OTROS>
+  <MS1><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>194</LINE></MS1>
+  <MS5><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>201</LINE></MS5>
+  <T_SALIR><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>225</LINE></T_SALIR>
+  <MS10><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>208</LINE></MS10>
+  <MS15><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>215</LINE></MS15>
+  <T_OTROS><FILE>C:\Users\aleja\OneDrive - Universidad Autónoma de Occidente\Semestres\Micro\Microchip_projects\Laboratorio_1\Lab1_1\Lab1_1\main.asm</FILE><LINE>222</LINE></T_OTROS>
+ </LABELS>
+</ASSEMBLER_INFO>
